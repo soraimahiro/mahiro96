@@ -1,5 +1,5 @@
 # Dumbledore96
-My website：[dumbledore96.github.io]()
+My website：[dumbledore96.github.io](dumbledore96.github.io)
 ## My program
 ### [C++_Archive](https://github.com/dumbledore96/cpp_space)
 ### [子毅的神奇網站](https://github.com/dumbledore96/The_magic_website) 
